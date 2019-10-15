@@ -1,7 +1,6 @@
 # rollup-starter-ts
 
 To fast start a typescript library.  
-快速开始一个typescript库
 
 ## Getting started
 
