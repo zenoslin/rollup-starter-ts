@@ -1,0 +1,1 @@
+{"version":3,"file":"bundle.esm.js","sources":["../src/main.ts"],"sourcesContent":["let version = \"1.0.1\";\n\nexport default () => {\n  return `this version is ${version}`;\n};\n"],"names":[],"mappings":"AAAA,IAAI,OAAO,GAAG,OAAO,CAAC;AAEtB,YAAe;IACb,OAAO,qBAAmB,OAAS,CAAC;CACrC,EAAC;;;;"}
